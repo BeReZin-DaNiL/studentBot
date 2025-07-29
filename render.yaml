@@ -1,0 +1,17 @@
+# Exported from Render on 2025-07-29T07:24:52Z
+services:
+- type: web
+  name: studentBot
+  runtime: python
+  repo: https://github.com/BeReZin-DaNiL/studentBot
+  plan: free
+  envVars:
+  - key: RUSTUP_HOME
+    sync: false
+  - key: CARGO_HOME
+    sync: false
+  region: oregon
+  buildCommand: pip install -r requirements.txt
+  startCommand: python main.py
+  autoDeployTrigger: "off"
+version: "1"
