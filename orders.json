@@ -1,0 +1,85 @@
+[
+    {
+        "group_name": "РОПЗ",
+        "university_name": "АПЭТ",
+        "teacher_name": "Иванов Иван",
+        "gradebook": "Не указано",
+        "subject": "МДК 01.04",
+        "work_type": "work_type_Курсовая",
+        "has_guidelines": false,
+        "guidelines_file": null,
+        "task_text": "Нету",
+        "task_file": null,
+        "has_example": false,
+        "example_file": null,
+        "deadline": "09.08.2025",
+        "comments": "Нет",
+        "status": "Выполнена",
+        "user_id": 7352968223,
+        "phone_number": "+79939374104",
+        "username": "N/A",
+        "first_name": "Артем",
+        "last_name": "Усов",
+        "creation_date": "29.07.2025 12:03",
+        "order_id": 3,
+        "executor_id": 8030752676,
+        "executor_offers": [
+            {
+                "price": "7000",
+                "deadline": "8",
+                "executor_id": 8030752676,
+                "executor_username": null,
+                "executor_full_name": "Team Snax",
+                "executor_comment": "",
+                "admin_price": 9000
+            }
+        ],
+        "final_price": 9000,
+        "submitted_work": {
+            "file_id": "BQACAgIAAxkBAAIhQWiIT7jFkgeUg5C0a5Q2sIyFWjelAAIEggACqb5ASNa3duaUa588NgQ",
+            "file_name": "Kwork.zip"
+        },
+        "submitted_at": "29.07.2025"
+    },
+    {
+        "first_name": "Артем",
+        "last_name": "Усов",
+        "phone_number": "+79939374104",
+        "group_name": "РОПЗ",
+        "university_name": "АПЭТ",
+        "teacher_name": "Горовенко Валерий",
+        "gradebook": "Не указано",
+        "subject": "Высшая математика",
+        "work_type": "work_type_Контрольная",
+        "has_guidelines": false,
+        "guidelines_file": null,
+        "task_file": {
+            "id": "BQACAgIAAxkBAAIhEWiISwTwn-YTPlbDAdxDxc4zU1YqAAKOgAACjApASF3DFDw2fDxFNgQ",
+            "type": "document"
+        },
+        "task_text": null,
+        "has_example": true,
+        "example_file": {
+            "id": "BQACAgIAAxkBAAIhE2iISwtX0Q83NQ1DqNfaSthIEhZNAAKPgAACjApASCYSW8Jif93YNgQ",
+            "type": "document"
+        },
+        "deadline": "6",
+        "comments": "Нужно сделать по примеру",
+        "status": "Выполнена",
+        "user_id": 7352968223,
+        "username": "N/A",
+        "creation_date": "29.07.2025 12:16",
+        "order_id": 4,
+        "executor_id": 842270366,
+        "final_price": "7000",
+        "due_date": "04.08.2025",
+        "executor_full_name": "Администратор",
+        "admin_self_comment": "нету",
+        "submitted_work": {
+            "file_id": "BQACAgIAAxkBAAIha2iIVLJ-Un6rPz3RtyG4YSUXZKrMAAI9cwACKrZISAWpEsmPn1VJNgQ",
+            "file_name": "Kwork.zip"
+        },
+        "submitted_at": "29.07.2025",
+        "revision_comment": "Нужно доделать работу"
+    }
+]
